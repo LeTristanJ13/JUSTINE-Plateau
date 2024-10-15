@@ -4,17 +4,19 @@
 
 #include "CoreMinimal.h"
 #include "UObject/NoExportTypes.h"
+#include "FSM_Manager.h"
 #include "Parent_State.generated.h"
+
 
 /**
  * 
  */
-UCLASS()
+UCLASS(Blueprintable)
 class JEUDELOIE_API UParent_State : public UObject
 {
 	GENERATED_BODY()
-	
-	virtual void EnterState();
-	virtual void Comportement();
-	virtual void ExitState();
+protected:
+	virtual void EnterState(AFSM_Manager stateMachine);
+	virtual void Comportement(AFSM_Manager stateMachine);
+	virtual void ExitState(AFSM_Manager stateMachine);
 };
