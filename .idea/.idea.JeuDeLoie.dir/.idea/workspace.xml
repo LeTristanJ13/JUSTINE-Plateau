@@ -8,13 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67f18390-b862-42d5-9c46-ef5b7d1e143c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.JeuDeLoie.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JeuDeLoie.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Folder/Blueprint/MiniJeu/BP_Card.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Folder/Blueprint/MiniJeu/BP_Card.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Folder/Blueprint/MiniJeu/BP_ObjetMinijeu.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Folder/Blueprint/MiniJeu/E_Color.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Folder/Blueprint/MiniJeu/GM_Memorie.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Folder/Blueprint/MiniJeu/GM_Memorie.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Folder/Blueprint/MiniJeu/HUD_MiniJeu.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Folder/Blueprint/MiniJeu/PC_Memory.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Folder/Blueprint/MiniJeu/Memory/GM_Memorie.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Folder/Blueprint/MiniJeu/Memory/GM_Memorie.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +127,7 @@
       <updated>1731666216876</updated>
       <workItem from="1731666218187" duration="1142000" />
       <workItem from="1731834229436" duration="2583000" />
+      <workItem from="1732870468990" duration="735000" />
     </task>
     <servers />
   </component>
