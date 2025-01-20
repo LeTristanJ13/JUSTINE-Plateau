@@ -8,7 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67f18390-b862-42d5-9c46-ef5b7d1e143c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/Folder/Blueprint/MiniJeu/Memory/GM_Memorie.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Folder/Blueprint/MiniJeu/Memory/GM_Memorie.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Folder/Material/M_Color.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Folder/Material/M_Color.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +128,7 @@
       <workItem from="1731666218187" duration="1142000" />
       <workItem from="1731834229436" duration="2583000" />
       <workItem from="1732870468990" duration="735000" />
+      <workItem from="1737379111915" duration="2696000" />
     </task>
     <servers />
   </component>
