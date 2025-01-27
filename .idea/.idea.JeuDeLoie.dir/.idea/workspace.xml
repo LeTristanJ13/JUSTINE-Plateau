@@ -8,7 +8,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67f18390-b862-42d5-9c46-ef5b7d1e143c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/Folder/Material/M_Color.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Folder/Material/M_Color.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.JeuDeLoie.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JeuDeLoie.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Map_Rendu.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Map_Rendu.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/RENDUVIsuel/MI_MetaRought.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/RENDUVIsuel/MI_Metallic.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/RENDUVIsuel/MI_Roughnes.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/RENDUVIsuel/MI_Specular.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/RENDUVIsuel/M_Rendu.uasset" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +135,9 @@
       <workItem from="1731834229436" duration="2583000" />
       <workItem from="1732870468990" duration="735000" />
       <workItem from="1737379111915" duration="2696000" />
+      <workItem from="1737808295846" duration="2448000" />
+      <workItem from="1737879722904" duration="321000" />
+      <workItem from="1737895307510" duration="703000" />
     </task>
     <servers />
   </component>
